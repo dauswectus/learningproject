@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5acc7e2abf865404782c8e8002b7670c
+timeCreated: 1460732013
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - CrosshairTexture: {fileID: 2800000, guid: 0a05948178d39ae4794a3d792b734dc8, type: 3}
+  - InteractTexture: {fileID: 2800000, guid: a113e46dd4070754ba9b5d7e70bf019b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

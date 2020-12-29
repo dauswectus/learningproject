@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: 1c250c459e7e6f043a584d253c60839c
+timeCreated: 1460679671
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body_M_GeoRndr
+    100002: GumsLower_M_GeoRndr
+    100004: GumsUpper_M_GeoRndr
+    100006: InnerEye_L_GeoRndr
+    100008: InnerEye_R_GeoRndr
+    100010: OuterEye_L_GeoRndr
+    100012: OuterEye_R_GeoRndr
+    100014: //RootNode
+    100016: TeethLower_M_GeoRndr
+    100018: TeethUpper_M_GeoRndr
+    100020: Tongue_M_GeoRndr
+    400000: Body_M_GeoRndr
+    400002: GumsLower_M_GeoRndr
+    400004: GumsUpper_M_GeoRndr
+    400006: InnerEye_L_GeoRndr
+    400008: InnerEye_R_GeoRndr
+    400010: OuterEye_L_GeoRndr
+    400012: OuterEye_R_GeoRndr
+    400014: //RootNode
+    400016: TeethLower_M_GeoRndr
+    400018: TeethUpper_M_GeoRndr
+    400020: Tongue_M_GeoRndr
+    2300000: Body_M_GeoRndr
+    2300002: GumsLower_M_GeoRndr
+    2300004: GumsUpper_M_GeoRndr
+    2300006: InnerEye_L_GeoRndr
+    2300008: InnerEye_R_GeoRndr
+    2300010: OuterEye_L_GeoRndr
+    2300012: OuterEye_R_GeoRndr
+    2300014: TeethLower_M_GeoRndr
+    2300016: TeethUpper_M_GeoRndr
+    2300018: Tongue_M_GeoRndr
+    3300000: Body_M_GeoRndr
+    3300002: GumsLower_M_GeoRndr
+    3300004: GumsUpper_M_GeoRndr
+    3300006: InnerEye_L_GeoRndr
+    3300008: InnerEye_R_GeoRndr
+    3300010: OuterEye_L_GeoRndr
+    3300012: OuterEye_R_GeoRndr
+    3300014: TeethLower_M_GeoRndr
+    3300016: TeethUpper_M_GeoRndr
+    3300018: Tongue_M_GeoRndr
+    4300000: TeethUpper_M_GeoRndr
+    4300002: GumsUpper_M_GeoRndr
+    4300004: TeethLower_M_GeoRndr
+    4300006: InnerEye_L_GeoRndr
+    4300008: InnerEye_R_GeoRndr
+    4300010: GumsLower_M_GeoRndr
+    4300012: OuterEye_R_GeoRndr
+    4300014: Body_M_GeoRndr
+    4300016: Tongue_M_GeoRndr
+    4300018: OuterEye_L_GeoRndr
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
